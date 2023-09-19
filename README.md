@@ -1,8 +1,8 @@
-# RepoName
+# sublime_text
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/sublime_text
 ```
 
